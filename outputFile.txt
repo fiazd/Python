@@ -1,0 +1,41 @@
+(271116, 15)
+
+['ID', 'Name', 'Sex', 'Age', 'Height', 'Weight', 'Team', 'NOC', 'Games', 'Year', 'Season', 'City', 'Sport', 'Event', 'Medal']
+
+The number of gold medals is: 13372 medals
+
+ID: 0.0%
+Name: 0.0%
+Sex: 0.0%
+Age: 3.49444518213606%
+Height: 22.193821095029435%
+Weight: 23.19118015904631%
+Team: 0.0%
+NOC: 0.0%
+Games: 0.0%
+Year: 0.0%
+Season: 0.0%
+City: 0.0%
+Sport: 0.0%
+Event: 0.0%
+Medal: 85.3262072323286%
+
+
+totalRows, uniqueAthletes, medalWinners
+271116 134732 28202
+
+Gold      13372
+Bronze    13295
+Silver    13116
+Name: Medal, dtype: int64
+Total: 39783
+
+              Team   Medal  count
+726  United States    Gold   2474
+727  United States  Silver   1512
+725  United States  Bronze   1233
+
+
+Number of men, number of women, number of women medals, number of men medals
+33808 100979 11253 28530 
+1900
